@@ -30,7 +30,7 @@
     "next-mdx-remote": "^4.1.0",
     "next-remote-watch": "1.0.0",
     "prismjs": "^1.30.0",
-    "react": "^19.2.0",
+    "react": "^19.2.1",
     "react-dom": "^19.2.0",
     "remark-gfm": "^3.0.1"
   },
